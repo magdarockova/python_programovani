@@ -107,3 +107,4 @@ print(kancelar.calculate_tax())
 print(zemedelsky_pozemek.__str__())
 print(dum.__str__())
 
+# zbytek bonusu uz asi nezvladnu :)
