@@ -1,0 +1,7 @@
+pondělí,2904,4
+úterý,7390,0
+středa,6950,8
+čtvrtek,3300,4
+pátek,10570,8
+sobota,1310,2
+neděle,9806,8
